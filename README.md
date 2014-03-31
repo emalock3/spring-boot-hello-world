@@ -1,6 +1,6 @@
 # Sping boot example
 
-## run
+## Run the service
 
     mvn clean package && java -jar target\spring-boot-hello-world-1.0.jar
 
@@ -8,7 +8,7 @@ or
 
     mvn spring-boot:run
 
-### Test the service
+## Test the service
 
 Now that the service is up, visit [http://localhost:8080/hello-world](http://localhost:8080/hello-world), where you see:
 
